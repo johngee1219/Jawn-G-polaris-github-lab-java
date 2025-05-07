@@ -23,7 +23,7 @@ jobs:
           
           ### SCANNING: Optional fields
           polaris_application_name: 
-          polaris_project_name: ${{ Jawn-G-polaris-github-lab-java }}
+          polaris_project_name: ${{ newapplicationlmao }}
           
           ### PULL REQUEST COMMENTS: Uncomment below to enable
           polaris_prComment_enabled: true 
